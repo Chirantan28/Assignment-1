@@ -22,10 +22,10 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me I'm Chirantana</h3>
+<h3 align="left">👩‍💻  About Me </h3>
 
 ###
-
+<p align="left">I'm Chirantana</p>
 <p align="left">I'm  from Bangalore<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning Computer Science and Engineering<br>- </p>
 
 ###
